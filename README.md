@@ -1,0 +1,1 @@
+# Hybrid-CNN-LSTM-Architecture-for-Intelligent-Machine-Failure-Prediction-
